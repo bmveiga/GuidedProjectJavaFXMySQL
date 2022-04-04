@@ -1,0 +1,10 @@
+/bin/
+target/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Eclipse
+.settings/
